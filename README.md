@@ -6,20 +6,20 @@
     <meta name="description" content="Canlı maç izlemenin en iyi adresi: ArenaSportsHD. Kesintisiz HD yayınlarla futbol ve diğer spor dallarını takip edin.">
     <meta name="keywords" content="canlı maç izle, selçuksports, taraftarium24, justin tv, spor yayınları">
     <meta name="author" content="ArenaSportsHD">
- <a href="https://arenasportshd.com" title="ArenaSportsHD - Canlı Maç İzle HD Kalitede Ücretsiz">
-    <img 
-        src="https://i.ibb.co/VWh0dZP/image.png" 
-        alt="Canlı Maç İzle - ArenaSportsHD ile HD Yayın" 
-        title="ArenaSportsHD - HD Kalitede Canlı Maç İzle" 
-        loading="lazy" 
-        style="max-width: 100%; height: auto;">
-</a>
-  <title>🏆 Canlı Maç İzle ve Spor Yayınları - ArenaSportsHD</title>
-
+    <title>🏆 Canlı Maç İzle ve Spor Yayınları - ArenaSportsHD</title>
+    <link rel="stylesheet" href="styles.css"> <!-- CSS dosyası eklenebilir -->
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0;">
     <header style="background-color: #1a73e8; color: white; padding: 1rem; text-align: center;">
         <h1>🏆 Canlı Maç İzle ve Spor Yayınları</h1>
+        <a href="https://arenasportshd.com" title="ArenaSportsHD - Canlı Maç İzle HD Kalitede Ücretsiz">
+            <img 
+                src="https://i.ibb.co/VWh0dZP/image.png" 
+                alt="Canlı Maç İzle - ArenaSportsHD ile HD Yayın" 
+                title="ArenaSportsHD - HD Kalitede Canlı Maç İzle" 
+                loading="lazy" 
+                style="max-width: 100%; height: auto;">
+        </a>
     </header>
   
     <main style="padding: 2rem;">
